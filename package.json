@@ -1,0 +1,25 @@
+{
+  "name": "recuperacion-node",
+  "version": "1.0.0",
+  "description": "Esto es para recuperar node",
+  "main": "index.js",
+  "dependencies": {
+    "ascii-art": "^1.4.3",
+    "discord.js": "^11.3.2",
+    "package.json": "^2.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GerardMoreno/Recuperacion-Node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GerardMoreno/Recuperacion-Node/issues"
+  },
+  "homepage": "https://github.com/GerardMoreno/Recuperacion-Node#readme"
+}
